@@ -53,15 +53,21 @@ De forma breve, conceitue atributos e métodos. Pesquise e exemplifique um objet
 **b. Olhando no sentido inverso, seria interessante uma pessoa possuir mais de uma conta como atributo? Que elemento da programação estruturada melhor representaria o conjunto de contas de uma pessoa?**  
 **Resposta**: Sim, é bem comum que as pessoas tenham mais de uma conta bancária em diferentes bancos, já que não há restrições para isso. Ter várias contas ajuda a gerenciar melhor o dinheiro e aproveitar as vantagens de cada banco. O elemento ideal para representar o conjunto de contas seria uma coleção, como uma lista ou array, permitindo armazenar e acessar todas as contas de uma pessoa de forma eficiente.
 
+---
 
-##Questão 5
+## Questão 5
 
-**Identifique pelo menos 5 objetos de um sistema de controle acadêmico. Ex: aluno.
-Professor, disciplina, turma, coordenador, sala.
-**Resposta**: Existem os objetos = Biblioteca, Cantina, Controle Financeiro, Segurança, Pedagoga.
+**Identifique pelo menos 5 objetos de um sistema de controle acadêmico. Ex: aluno.**  
+**Resposta**: Professor, disciplina, turma, coordenador, sala. Outros exemplos de objetos: Biblioteca, Cantina, Controle Financeiro, Segurança, Pedagoga.
 
-##Questão 6 
+---
 
-**Imagine um jogo qualquer. Identifique o máximo de objetos possíveis e eventuaiscaracterísticas (atributos) e comportamentos (métodos) que eles poderiam ter. Jogo de vôlei. Atributos: duração, local, tipo, quantidade de jogadores, placar, time1, time2. Métodos: iniciar partida, pausar, adicionar jogador, remover jogador, finalizar partidas.
+## Questão 6 
 
-**Resposta**: Jogo de futebol. Atributos: duração, local, quantidade de jogadores, placar, arbitro, bola, quantidade de torcedores. Métodos: Iniciar partida, intervalo, pausar partida, encerrar partida, expulsar jogador, substituição, olhar var.
+**Imagine um jogo qualquer. Identifique o máximo de objetos possíveis e eventuais características (atributos) e comportamentos (métodos) que eles poderiam ter.**
+
+**Resposta**: 
+
+Jogo de futebol.  
+- **Atributos**: duração, local, quantidade de jogadores, placar, árbitro, bola, quantidade de torcedores.  
+- **Métodos**: iniciar partida, intervalo, pausar partida, encerrar partida, expulsar jogador, substituição, olhar VAR.
